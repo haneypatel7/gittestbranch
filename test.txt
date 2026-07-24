@@ -1,5 +1,1 @@
 master
-dev-2 here is developer 2
-dev-1 here is developer 1
-d-1
-d2
